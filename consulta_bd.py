@@ -9,7 +9,7 @@ Created on Fri Aug 12 11:29:33 2022
 from classes.bd import BD
 
 
-query = "select sysdate FROM dual"
+query = 'select sysdate FROM dual'
 
 #objeto bd com todos os atributos
 bd = BD()
